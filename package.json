@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/rseverinop.litts-lkwupqfd-fork-lkwuzcul",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve fNttMbHNOhOmfNGSYvjL --open"
+  },
+  "dependencies": {}
+}
